@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atm98&label=Profile%20views&color=0e75b6&style=flat" alt="atm98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atm98" alt="atm98" /></a> </p>
-
+<img align="center" src="https://media.giphy.com/media/iAKXyzgLVtKsU/giphy.gif"/>
 <p align="left"> <a href="https://twitter.com/sudo_rce" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_rce?logo=twitter&style=for-the-badge" alt="sudo_rce" /></a> </p>
 
 * 🌱 I’m currently learning **Tensorflow**
