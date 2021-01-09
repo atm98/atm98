@@ -9,7 +9,7 @@
 
 * 🌱 I’m currently learning **Tensorflow**
 
-* 👨‍💻 All of my projects are available at [atm98.github.io](atm98.github.io)
+* 👨‍💻 All of my projects are available at [https://atm98.github.io](https://atm98.github.io)
 
 * 💬 Ask me about **Android, React-Native, Flutter, Java, Kotlin**
 
