@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atm98" alt="atm98" /></a> </p>
 <img align="center" src="https://media.giphy.com/media/iAKXyzgLVtKsU/giphy.gif"/>
-<a href="javascript:window.alert('hell0') https://google.com">Test Click</a>
 <p align="left"> <a href="https://twitter.com/sudo_rce" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_rce?logo=twitter&style=for-the-badge" alt="sudo_rce" /></a> </p>
 
 * 🌱 I’m currently learning **Tensorflow**
