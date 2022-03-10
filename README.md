@@ -7,7 +7,7 @@
 <p align="center"><img align="center" src="https://media.giphy.com/media/iAKXyzgLVtKsU/giphy.gif"/></p>
 <p align="center"> <a href="https://twitter.com/sudo_rce" target="blank"><img src="https://img.shields.io/twitter/follow/sudo_rce?logo=twitter&style=for-the-badge" alt="sudo_rce" /></a> </p>
 <div align="center">
-I’m currently learning **Tensorflow**
+I’m currently learning **Solidarity**
 
 👨‍💻 All of my projects are available at [www.github.com/atm98](https://github.com/atm98)
 
